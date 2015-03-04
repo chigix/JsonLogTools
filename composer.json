@@ -1,5 +1,5 @@
 {
-    "name": "chigix/JsonLogTools",
+    "name": "chigix/json-log-tools",
     "type": "library",
     "description": "The tools for log process in json format",
     "homepage": "http://www.chigix.com",
