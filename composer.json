@@ -1,0 +1,11 @@
+{
+    "autoload": {
+        "psr-0": {
+            "": "src/"
+        }
+    },
+    "require": {
+        "codegyre/robo": "*",
+        "chigix/io-component": "dev-master"
+    }
+}
