@@ -1,4 +1,15 @@
 {
+    "name": "chigix/JsonLogTools",
+    "type": "library",
+    "description": "The tools for log process in json format",
+    "homepage": "http://www.chigix.com",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "Richard Lea",
+            "email": "chigix@zoho.com"
+        }
+    ],
     "autoload": {
         "psr-0": {
             "": "src/"
